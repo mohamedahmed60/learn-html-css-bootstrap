@@ -1,0 +1,9 @@
+.card:hover{
+    border-color: #119744;
+    box-shadow: 0px 8px 15px 0px;
+}
+
+.card:hover .add-cat{
+    background-color: #119744;
+    color: white;
+}
