@@ -1,6 +1,8 @@
 body{
-    box-sizing:content-box;
-    margin-left: 30px;
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
 }
 
 .category-card{
@@ -8,7 +10,7 @@ body{
     border-radius: 6px;
     border: 2px solid #eef0f6;
     height: 92px;
-    padding-top: 12px;
+    padding-top: 10px;
 }
 .category-card:hover {
     background-color: #2b4eff;
